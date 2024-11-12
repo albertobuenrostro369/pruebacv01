@@ -19,9 +19,3 @@ Este repositorio contiene el código fuente de un CV personal en formato HTML. H
 - Sección con foto personal.
 - Barra de navegación para facilitar el acceso a diferentes partes del CV.
 
-## Instalación
-
-Si deseas ver o modificar este proyecto, puedes clonarlo a tu máquina local. Para hacerlo, utiliza el siguiente comando:
-
-```bash
-git clone https://github.com/albertobuenrostro369/pruebacv01.git
